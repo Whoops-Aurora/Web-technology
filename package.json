@@ -1,0 +1,18 @@
+{
+  "name": "web-technology",
+  "version": "1.0.0",
+  "description": "Web technology a module contribution to full stack web project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2"
+  }
+}
